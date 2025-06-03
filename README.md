@@ -1,5 +1,5 @@
  ## Hi, 
-I'm **Benjamin** (he/him) and I'm a 19-year old hobby coder from Germany.
+I'm **Benjamin** (he/him) and I'm a 20-year old hobby coder from Germany.
 
 ### Technologies I am interested in:
 - Artificial Intelligence / Machine Learning / Large Language Models
